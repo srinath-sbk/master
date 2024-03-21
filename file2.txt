@@ -2,3 +2,4 @@ in file2
 testme
 this
 test
+last
