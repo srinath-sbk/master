@@ -1,4 +1,4 @@
 in file2 
 testme
 this
-i ami in 
+test
